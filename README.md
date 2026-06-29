@@ -15,6 +15,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -22,4 +23,8 @@
 | [0021-merge-two-sorted-lists](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
