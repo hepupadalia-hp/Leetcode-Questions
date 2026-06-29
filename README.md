@@ -12,6 +12,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0024-swap-nodes-in-pairs) |
 | [0160-intersection-of-two-linked-lists](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +29,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0622-design-circular-queue](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +45,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0155-min-stack) |
+| [0622-design-circular-queue](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
