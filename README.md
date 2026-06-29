@@ -27,14 +27,17 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/hepupadalia-hp/Leetcode-Questions/tree/master/0155-min-stack) |
 ## Design
 |  |
